@@ -1,6 +1,8 @@
 # Salt Tablet (Arduino)
 
-this is a Salt tablet.
+This is a Salt Tablet.
+
+It will be a hardware device that becomes a TTY.
 
 Work in progress.
 
