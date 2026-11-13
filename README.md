@@ -1,10 +1,14 @@
 # Salt Tablet (Arduino)
 
+[![PlatformIO CI](https://github.com/srl295/salt-tablet-arduino/actions/workflows/pio.yml/badge.svg)](https://github.com/srl295/salt-tablet-arduino/actions/workflows/pio.yml)
+
 This is a Salt Tablet.
 
 It will be a hardware device that becomes a TTY.
 
 Work in progress.
+
+made for <https://platformio.org/>
 
 ## Author
 
